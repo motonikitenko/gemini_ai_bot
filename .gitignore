@@ -1,0 +1,6 @@
+.gitattributes
+.env
+.idea
+.venv
+/resources/users
+/__pycache__
